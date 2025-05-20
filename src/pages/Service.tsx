@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { Input } from "@/components/ui/input";
 import { Button } from '@/components/ui/button';
-import { Textarea } from '@/components/ui/textarea";
+import { Textarea } from "@/components/ui/textarea";
 import { Card, CardContent } from '@/components/ui/card';
 import { Calendar } from '@/components/ui/calendar';
 import {
