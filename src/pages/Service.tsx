@@ -193,7 +193,7 @@ const Service = () => {
                                 {brands.map((brand) => (
                                   <SelectItem key={brand} value={brand}>{brand}</SelectItem>
                                 ))}
-                                <SelectItem value="other">Other</SelectItem>
+                                <SelectItem key="other" value="other">Other</SelectItem>
                               </SelectContent>
                             </Select>
                             <FormMessage />
